@@ -1,16 +1,28 @@
-## Hi there 👋
+# Привіт! Мене звати Єгор 👋
 
-<!--
-**chipsbogov-hash/chipsbogov-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Студент спеціальності **«Інженерія програмного забезпечення»**. Цікавлюся розробкою програм.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Про мене
+- 🎓 Навчаюся на 1 курсі університету
+- 💻 Основний напрям інтересів: **C** **С++** **Rust** **Java** **Python**
+- 🌱 Зараз вивчаю: **C** та **C++**
+- 🎯 Мета: створити сильне портфоліо навчальних і pet-проєктів та розпочати кар'єру на позиції **Junior Software Engineer**
+
+---
+
+### 🛠 Технології та інструменти
+**Мови програмування:** C++, Python, JavaScript (базовий)           
+**Інструменти:** Git, GitHub, Visual Studio, VS Code, Trello 
+
+---
+
+### 📂 Навчальні проєкти
+**Доповнюю**
+
+---
+
+### 📫 Як зі мною зв'язатися
+- **GitHub:** chipsbogov-hash(https://github.com/chipsbogov-hash)
+- **Discord:** @usikchemp
